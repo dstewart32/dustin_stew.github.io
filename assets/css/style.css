@@ -38,11 +38,11 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 60px;
   z-index: 996;
   background:  #00084d;
-  width: 240px;
-  height: 44px;
+  width: 20%;
+  height: 4%;
   border-radius: 10px;
   transition: all 0.4s;
-  font-size: 16px;
+  font-size: 100%;
   color: #fff;
 
   font-family: 'Helvetica';
