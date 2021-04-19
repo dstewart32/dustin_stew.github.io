@@ -39,7 +39,8 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 996;
   background:  #00084d;
   width: 20%;
-  height: 4%;
+  min-height: 4%;
+  height: auto;
   border-radius: 10px;
   transition: all 0.4s;
   font-size: 100%;
