@@ -34,12 +34,12 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   visibility: visible;
   opacity: 1;
-  right: 80px;
+  right: 100px;
   bottom: 60px;
   z-index: 996;
-  background: #730000;
+  background:  #00084d;
   width: 240px;
-  height: 50px;
+  height: 44px;
   border-radius: 10px;
   transition: all 0.4s;
   font-size: 16px;
@@ -50,19 +50,19 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .resume-download:hover {
-  background: #9c0000;
+  background: #99a3ff;
   color: #fff;
 }
 .back-to-top {
   position: fixed;
   visibility: hidden;
   opacity: 0;
-  right: 18px;
+  right: 40px;
   bottom: 60px;
   z-index: 996;
-  background: #730000;
-  width: 50px;
-  height: 50px;
+  background:  #00084d;
+  width: 40px;
+  height: 40px;
   border-radius: 50px;
   transition: all 0.4s;
 }
@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #9c0000;
+  background: #99a3ff;
   color: #fff;
 }
 
