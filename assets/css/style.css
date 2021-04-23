@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
   height: auto;
   border-radius: 10px;
   transition: all 0.4s;
-  font-size: 1.4vw;
+  font-size: min(1.8vw, 16px);
   color: #fff;
 
   font-family: 'Helvetica';
